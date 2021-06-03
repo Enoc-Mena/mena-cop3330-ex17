@@ -3,6 +3,9 @@
  *  Copyright 2021 Enoc Mena
  */
 
+//Did research on how to get user to input proper input but I found the research confusing and 
+//when trying to implement it into my code it would not work.
+
 package com.baccalculator;
 import java.util.Scanner;
 
